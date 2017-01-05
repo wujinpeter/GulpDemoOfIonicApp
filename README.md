@@ -7,6 +7,9 @@ $ npm install
 # 安装js依赖库
 $ bower install
 
+# 安装gulp-ng-config
+npm install gulp-ng-config
+
 # 开发环境:
 $ gulp clean
 
