@@ -9,8 +9,10 @@ $ bower install
 
 # 开发环境:
 $ gulp clean
+
 $ gulp build-dev
 
 # 正式环境:
 $ gulp run-prod
+
 $ gulp build-prod
